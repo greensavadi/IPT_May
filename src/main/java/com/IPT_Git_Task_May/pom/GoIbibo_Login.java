@@ -9,6 +9,10 @@ public class GoIbibo_Login {
 
 	public static WebDriver driver;
 
+	
+	
+	
+	
 	@FindBy(name = "phone")
 	private WebElement phoneno;
 
@@ -109,6 +113,9 @@ public class GoIbibo_Login {
 	private WebElement logoutbutton;
 
 	public WebElement getLogoutbutton() {
+		
+		
+		
 		return logoutbutton;
 	}
 
