@@ -31,6 +31,7 @@
       <version>5.7.1</version>
       <scope>test</scope>
     </dependency>
+<<<<<<< HEAD
     
       <!-- https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager -->
 	<dependency>
@@ -47,11 +48,29 @@
 	</dependency>
 	
 	<dependency>
+=======
+           <dependency>
+>>>>>>> 055e06f8e928a5d6e2b943f335bc4af89bf80f9a
     <groupId>org.testng</groupId>
     <artifactId>testng</artifactId>
     <version>7.7.1</version>
     <scope>test</scope>
 </dependency>
+<<<<<<< HEAD
+=======
+           
+           <dependency>
+		<groupId>io.github.bonigarcia</groupId>
+		<artifactId>webdrivermanager</artifactId>
+		<version>5.3.2</version>
+	</dependency>
+           
+           <dependency>
+		<groupId>org.seleniumhq.selenium</groupId>
+		<artifactId>selenium-java</artifactId>
+    	<version>3.141.59</version>
+	</dependency>
+>>>>>>> 055e06f8e928a5d6e2b943f335bc4af89bf80f9a
   </dependencies>
 
   <build>
