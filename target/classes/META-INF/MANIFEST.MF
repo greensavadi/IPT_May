@@ -1,9 +1,5 @@
 Manifest-Version: 1.0
-<<<<<<< HEAD
-Built-By: gobiv
-Build-Jdk: 17.0.5
-=======
-Build-Jdk-Spec: 17
->>>>>>> 45f93c71bd9db0602e9174181104b4fb484c440e
+Built-By: User
+Build-Jdk: 17.0.4.1
 Created-By: Maven Integration for Eclipse
 
